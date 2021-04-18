@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Geraldo Moura
+- 👀 I’m interested in Web Development and Cybersecurity
+- 🌱 I’m currently learning Python, JavaScript, and frameworks for these languages
+- 💞️ I’m looking to collaborate on anyhting I can.
+- 📫 How to reach on Twitter me @MouraWebDev
